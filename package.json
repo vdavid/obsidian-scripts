@@ -1,0 +1,16 @@
+{
+  "name": "obsidian-scripts",
+  "version": "1.0.0",
+  "description": "Obsidian scripts",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "David Veszelovszki",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
